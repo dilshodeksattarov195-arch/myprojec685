@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuelete",
+        "uuid": 2091305,
+        "checksum": "otgma8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
